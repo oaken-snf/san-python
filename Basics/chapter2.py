@@ -1,0 +1,8 @@
+#width = input("What is the width of your rectangle")
+#width = int(width)
+#length = input ("What is the length of your rectangle")
+#length = int(length)
+#print ("The area of your rectangle is equal to" ,width * length)
+radius = input ("What is your radius?")
+radius = int(radius)
+print ("The area of your circle is approximately" ,radius**2 * 3.14, "units squared.The circumference of your circle is" , radius * 2 * 3.14, "units")
